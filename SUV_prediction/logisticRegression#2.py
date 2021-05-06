@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
 
 
-data=pd.read_csv("/home/piyush/Downloads/suv dataset/suv_data.csv")
+data=pd.read_csv("suv_data.csv")
 
 #print(data.head(5))
 
